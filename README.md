@@ -22,11 +22,9 @@ Here is a human-readable summary of it :
 
 
 
--------
-[TOC]
 
 ---
-#Contents
+#Songs:
 ##Butterfly
 This song was originally performed by the Japanese artist SMILE.
 
