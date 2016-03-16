@@ -16,15 +16,18 @@ to life.
 
 There're several kind of material available :
 
-> UTAU Sequence Texts files(.ust) which require a jklex voice bank(to do here)[]
+> UTAU Sequence Texts files(.ust) which require a jklex voice bank that you can get [here](http://blog.sina.com.cn/s/blog_711e86460101ci5f.html)
 
 > FL Studio song files(.flp)
 
 > Musicial Instrumental Digital Interface files(.midi)
 
-> Adobe Audition Session files(.sesx) need Waves and iOzone[] and extra attention.
+> Adobe Audition Session files(.sesx) need [Waves](http://www.waves.com/) and [Izotope Ozone](https://www.izotope.com) and extra attention.
 
 > Jinkela version of the song
+
+
+Though I'd like to share EVERYTHING with you ,material available may vary from songs.
 
 I love opensource and if the material above are useful to you, I would be very happy.
 
