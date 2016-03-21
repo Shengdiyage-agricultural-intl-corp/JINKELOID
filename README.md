@@ -1,7 +1,7 @@
 Welcome to VERRICKT's KELALIST
 =================
 
-Hi,there. I'm Verrickt.
+Hey,there . I'm Verrickt.
 I love music, Vocaloid and especially ,Jinkela.
 
 The reason I make this this repository is that I want to
@@ -27,12 +27,28 @@ There're several kind of material available :
 > Jinkela version of the song
 
 
-Though I'd like to share EVERYTHING with you ,material available may vary from songs.
+Though I'd like to share EVERYTHING with you ,material that available to you may vary from songs.
 
-I love opensource and if the material above are useful to you, I would be very happy.
+I love opensource and if the material above are useful to you, please let me know.
+
+I will be happy about that.
 
 For copyright propose I removed the originating version of the song from sesx
-files. You'll have to link your own version of it.
+files. You'll have to use the link your own version in AU.
+#How to download
+
+##if you don't have a git client
+you can either
+>Click Download ZIP button above
+
+Or
+
+>Install git
+
+##if you have a git client
+> git clone https://github.com/Verrickt/JINKELA.git
+
+will work.
 
 
 
@@ -69,9 +85,8 @@ those in albums.
 
 #Wanna know more about the songs ?
 
-Have a look at Markdown file (.md) in each directory to see how each
-ust files compose the vocal and more.
-
+Have a look at Markdown file (.md) in each directory to see how 
+ust files are composed and more!
 
 
 #License
