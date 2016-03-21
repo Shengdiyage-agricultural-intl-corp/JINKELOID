@@ -1,7 +1,8 @@
 Late in autumn
 ====================
 
-originating by fripSide.
+originating by *fripSide*.
+
 
 
 Ust files work as follow:
@@ -9,5 +10,7 @@ Ust files work as follow:
 > - Autumn PartB.ust as the second part
 > - Autumn PartC.ust as the third part
 > - Autumn PartD.ust as the last part
+
+My version is [here](http://www.bilibili.com/video/av2128669/)
 
 

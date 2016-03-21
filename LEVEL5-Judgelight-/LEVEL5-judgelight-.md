@@ -1,6 +1,7 @@
 LEVEL5-judgelight-
 ===================
-Originating by fripSide.
+originating by *fripSide*.
+
 
 
 
@@ -9,3 +10,5 @@ Ust files work as follow:
 > - 间奏f.ust   as the beginning by the Aferican in Jinkela
 > - 间奏m.ust as the beginning by the American in Jinkela
 > - 间奏r.ust   as the beginning by the Japanese in Jinkela
+
+My version is [here](http://www.bilibili.com/video/av2245309/)
