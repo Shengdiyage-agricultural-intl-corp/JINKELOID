@@ -1,8 +1,8 @@
 Welcome to VERRICKT's KELALIST
 =================
 
-Hey,there . I'm Verrickt.
-I love music, Vocaloid and especially ,Jinkela.
+Hey,there. I'm Verrickt.
+I love music, Vocaloid and especially, Jinkela.
 
 The reason I make this this repository is that I want to
 make all songs I love a Jinkela version.
@@ -84,4 +84,4 @@ ust files are composed and more!
 
 
 ----------
-Copyright © 2015 VERRICKT
+Copyright © 2015-2016 VERRICKT
