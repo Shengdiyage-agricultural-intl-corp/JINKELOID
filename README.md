@@ -37,20 +37,7 @@ For copyright propose I removed the originating version of the song from sesx
 files. You'll have to use the link your own version in AU.
 #How to download
 
-##if you don't have a git client
-you can either
->Click Download ZIP button above
-
-Or
-
->Install git
-
-##if you have a git client
-> git clone https://github.com/Verrickt/JINKELA.git
-
-will work.
-
-
+Both The Download ZIP button above and git clone will work.
 
 
 #How to reproduce the songs
@@ -82,6 +69,8 @@ those in albums.
 - The dawn
 - ロクシーの淚(also knows as *卢克西的眼泪*)
 - 名前のない怪物
+- 発熱エモーション
+- 空は高く风は歌う
 
 #Wanna know more about the songs ?
 
