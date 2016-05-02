@@ -61,12 +61,13 @@ those in albums.
 
 #Catagory
 
-- Butterfly
-- Late in autumn LEVEL5-judgelight- 
-- Memory of snow
-- Only my railgun
-- Sister's noise
-- The dawn
+- butterfly
+- late in autumn 
+- LEVEL5-judgelight- 
+- memory of snow
+- only my railgun
+- sister's noise
+- the dawn
 - ロクシーの淚(also knows as *卢克西的眼泪*)
 - 名前のない怪物
 - 発熱エモーション
